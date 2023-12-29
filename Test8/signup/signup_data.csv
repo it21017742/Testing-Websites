@@ -1,0 +1,5 @@
+Test Case ID,Enabled,Description,firstname,surename,phone,street,city,country,postcode,email,password,confirmPassword,errMsg
+signup,0,Keep All Empty,,,,,,,,,,,Enter Details!
+signup,0,No Confirm Password,Ada,John,909123456,13 st,London,England,71510,adajohn@gmail.com,12345,,Enter Confirm Password
+signup,0,No Email Address,Ada,John,909123456,14 st,London,England,71510,,12345,12345,Enter Email
+signup,1,Enter All Details,Ada,John,909123456,15 st,London,England,71510,adajohn@gmail.com,12345,12345,

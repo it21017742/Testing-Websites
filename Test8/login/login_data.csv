@@ -1,0 +1,3 @@
+Test Case ID,Enabled,Description,email,password,errMsg
+login,1,only email,adajohn@gmail.com,,Enter Password! 
+login,1,Enter email and password,adajohn@gmail.com,12345,

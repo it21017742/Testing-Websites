@@ -1,0 +1,44 @@
+2023-12-29 16:02:04,679 Ig	Console				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\Console\Console.csv 
+2023-12-29 16:02:04,680 Ig	SavePerson				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\SavePerson\SavePerson.csv 
+2023-12-29 16:02:04,680 Ig	Login_1				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\Login_1\Login_1.csv 
+2023-12-29 16:02:04,680 Ig	Logout_1				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\Logout_1\Logout_1.csv 
+2023-12-29 16:02:04,680 Ig	DepositCash				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\DepositCash\DepositCash.csv 
+2023-12-29 16:02:04,681 Ig	QueryOptimization				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\QueryOptimization\QueryOptimization.csv 
+2023-12-29 16:02:04,681 Ig	OpenZeenUI				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\OpenZeenUI\OpenZeenUI.csv 
+2023-12-29 16:02:04,681 Ig	OpenProject				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\OpenProject\OpenProject.csv 
+2023-12-29 16:02:04,682 Ig	NavExpo				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\NavExpo\NavExpo.csv 
+2023-12-29 16:02:04,682 Ig	LoginExpo				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\LoginExpo\LoginExpo.csv 
+2023-12-29 16:02:04,682 Ig	Loading				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\Loading\Loading.csv 
+2023-12-29 16:02:04,682 Ig	jbOpenPortal				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\jbOpenPortal\jbOpenPortal.csv 
+2023-12-29 16:02:04,682 Ig	jbDataEntryBasic				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\jbDataEntryBasic\jbDataEntryBasic.csv 
+2023-12-29 16:02:04,682 Ig	curl				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\curl\curl.csv 
+2023-12-29 16:02:04,682 Ig	apiDataEntryBasic				 Steps file not found: C:\Users\user\Downloads\Test8\Test8\apiDataEntryBasic\apiDataEntryBasic.csv 
+2023-12-29 16:02:21,045 EX    16210ms 2,2    Navigated to         https://demo.guru99.com/insurance/v1/register.php 	 
+2023-12-29 16:02:22,453 EX      320ms 5,2    Clicked              user_title 	 
+2023-12-29 16:02:23,732 EX      272ms 5,3    Clicked              //*[@id="user_title"]/option[3] 	 
+2023-12-29 16:02:24,895 EX      150ms 5,4    Entered text in      user_firstname 	 
+2023-12-29 16:02:26,005 EX      106ms 5,5    Entered text in      user_surname 	 
+2023-12-29 16:02:27,086 EX       74ms 5,6    Entered text in      user_phone 	 
+2023-12-29 16:02:28,446 EX      349ms 5,7    Clicked              user_dateofbirth_1i 	 
+2023-12-29 16:02:29,738 EX      277ms 5,8    Clicked              /html/body/div[3]/form/div[2]/div[3]/select[1]/option[3] 	 
+2023-12-29 16:02:31,103 EX      349ms 5,9    Clicked              user_dateofbirth_2i 	 
+2023-12-29 16:02:32,375 EX      268ms 5,10   Clicked              /html/body/div[3]/form/div[2]/div[3]/select[2]/option[3] 	 
+2023-12-29 16:02:33,755 EX      378ms 5,11   Clicked              user_dateofbirth_3i 	 
+2023-12-29 16:02:35,028 EX      265ms 5,12   Clicked              /html/body/div[3]/form/div[2]/div[3]/select[3]/option[10] 	 
+2023-12-29 16:02:36,301 EX      267ms 5,13   Clicked              /html/body/div[3]/form/div[2]/div[4]/label[2] 	 
+2023-12-29 16:02:37,631 EX      328ms 5,14   Clicked              user_licenceperiod 	 
+2023-12-29 16:02:38,886 EX      251ms 5,15   Clicked              /html/body/div[3]/form/div[2]/div[5]/select/option[13] 	 
+2023-12-29 16:02:40,219 EX      328ms 5,16   Clicked              user_occupation_id 	 
+2023-12-29 16:02:41,541 EX      303ms 5,17   Clicked              /html/body/div[3]/form/div[2]/div[6]/select/option[18] 	 
+2023-12-29 16:02:42,647 EX      102ms 5,18   Entered text in      user_address_attributes_street 	 
+2023-12-29 16:02:43,762 EX      113ms 5,19   Entered text in      user_address_attributes_city 	 
+2023-12-29 16:02:44,916 EX      145ms 5,20   Entered text in      user_address_attributes_county 	 
+2023-12-29 16:02:46,035 EX      111ms 5,21   Entered text in      user_address_attributes_postcode 	 
+2023-12-29 16:02:47,199 EX      161ms 5,22   Entered text in      user_user_detail_attributes_email 	 
+2023-12-29 16:02:48,319 EX      116ms 5,23   Entered text in      user_user_detail_attributes_password 	 
+2023-12-29 16:02:49,425 EX      104ms 5,24   Entered text in      user_user_detail_attributes_password_confirmation 	 
+2023-12-29 16:02:52,837 EX     2399ms 5,25   Clicked              //*[@id="new_user"]/div[5]/input[2] 	 
+2023-12-29 16:02:53,934 EX       73ms 2,2    Entered text in      //*[@id="email"] 	 
+2023-12-29 16:02:55,027 EX       90ms 2,3    Entered text in      //*[@id="password"] 	 
+2023-12-29 16:02:57,346 EX     1316ms 2,4    Clicked              /html/body/div[3]/form/div[3]/input 	 
+2023-12-29 16:02:58,458 ER     1316ms 2,5    Verified text in     /html/body/div[3]/form/div[2]/span/b 	Expected text "Enter Password!" actual "Enter your Email address and password correct" 
