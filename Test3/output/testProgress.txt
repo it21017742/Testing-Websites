@@ -1,0 +1,26 @@
+2023-12-29 09:28:00,781 Ig	login				 Steps file not found: C:\TestCases\Test3\login\login.csv 
+2023-12-29 09:28:00,781 Ig	Console				 Steps file not found: C:\TestCases\Test3\Console\Console.csv 
+2023-12-29 09:28:00,781 Ig	SavePerson				 Steps file not found: C:\TestCases\Test3\SavePerson\SavePerson.csv 
+2023-12-29 09:28:00,781 Ig	Login_1				 Steps file not found: C:\TestCases\Test3\Login_1\Login_1.csv 
+2023-12-29 09:28:00,781 Ig	Logout_1				 Steps file not found: C:\TestCases\Test3\Logout_1\Logout_1.csv 
+2023-12-29 09:28:00,783 Ig	DepositCash				 Steps file not found: C:\TestCases\Test3\DepositCash\DepositCash.csv 
+2023-12-29 09:28:00,783 Ig	QueryOptimization				 Steps file not found: C:\TestCases\Test3\QueryOptimization\QueryOptimization.csv 
+2023-12-29 09:28:00,783 Ig	OpenZeenUI				 Steps file not found: C:\TestCases\Test3\OpenZeenUI\OpenZeenUI.csv 
+2023-12-29 09:28:00,783 Ig	OpenProject				 Steps file not found: C:\TestCases\Test3\OpenProject\OpenProject.csv 
+2023-12-29 09:28:00,783 Ig	NavExpo				 Steps file not found: C:\TestCases\Test3\NavExpo\NavExpo.csv 
+2023-12-29 09:28:00,783 Ig	LoginExpo				 Steps file not found: C:\TestCases\Test3\LoginExpo\LoginExpo.csv 
+2023-12-29 09:28:00,783 Ig	Loading				 Steps file not found: C:\TestCases\Test3\Loading\Loading.csv 
+2023-12-29 09:28:00,783 Ig	jbOpenPortal				 Steps file not found: C:\TestCases\Test3\jbOpenPortal\jbOpenPortal.csv 
+2023-12-29 09:28:00,783 Ig	jbDataEntryBasic				 Steps file not found: C:\TestCases\Test3\jbDataEntryBasic\jbDataEntryBasic.csv 
+2023-12-29 09:28:00,783 Ig	curl				 Steps file not found: C:\TestCases\Test3\curl\curl.csv 
+2023-12-29 09:28:00,783 Ig	apiDataEntryBasic				 Steps file not found: C:\TestCases\Test3\apiDataEntryBasic\apiDataEntryBasic.csv 
+2023-12-29 09:28:00,784 Ig	signup				 Steps file not found: C:\TestCases\Test3\signup\signup.csv 
+2023-12-29 09:28:08,505 EX     7618ms 2,2    Navigated to         https://demo.guru99.com/test/newtours/login.php 	 
+2023-12-29 09:28:09,618 EX       83ms 2,2    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[1]/td[2]/input 	 
+2023-12-29 09:28:10,688 EX       59ms 2,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2023-12-29 09:28:11,755 EX       60ms 3,2    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[1]/td[2]/input 	 
+2023-12-29 09:28:12,810 EX       53ms 3,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2023-12-29 09:28:13,870 EX       58ms 4,2    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[1]/td[2]/input 	 
+2023-12-29 09:28:14,932 EX       55ms 4,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2023-12-29 09:28:16,001 EX       60ms 5,2    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[1]/td[2]/input 	 
+2023-12-29 09:28:17,059 EX       54ms 5,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 

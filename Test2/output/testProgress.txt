@@ -1,0 +1,33 @@
+2023-12-28 09:55:40,306 Ig	login				 Steps file not found: C:\TestCases\Test2\login\login.csv 
+2023-12-28 09:55:40,306 Ig	Console				 Steps file not found: C:\TestCases\Test2\Console\Console.csv 
+2023-12-28 09:55:40,306 Ig	SavePerson				 Steps file not found: C:\TestCases\Test2\SavePerson\SavePerson.csv 
+2023-12-28 09:55:40,306 Ig	Login_1				 Steps file not found: C:\TestCases\Test2\Login_1\Login_1.csv 
+2023-12-28 09:55:40,306 Ig	Logout_1				 Steps file not found: C:\TestCases\Test2\Logout_1\Logout_1.csv 
+2023-12-28 09:55:40,306 Ig	DepositCash				 Steps file not found: C:\TestCases\Test2\DepositCash\DepositCash.csv 
+2023-12-28 09:55:40,306 Ig	QueryOptimization				 Steps file not found: C:\TestCases\Test2\QueryOptimization\QueryOptimization.csv 
+2023-12-28 09:55:40,307 Ig	OpenZeenUI				 Steps file not found: C:\TestCases\Test2\OpenZeenUI\OpenZeenUI.csv 
+2023-12-28 09:55:40,307 Ig	OpenProject				 Steps file not found: C:\TestCases\Test2\OpenProject\OpenProject.csv 
+2023-12-28 09:55:40,307 Ig	NavExpo				 Steps file not found: C:\TestCases\Test2\NavExpo\NavExpo.csv 
+2023-12-28 09:55:40,307 Ig	LoginExpo				 Steps file not found: C:\TestCases\Test2\LoginExpo\LoginExpo.csv 
+2023-12-28 09:55:40,307 Ig	Loading				 Steps file not found: C:\TestCases\Test2\Loading\Loading.csv 
+2023-12-28 09:55:40,307 Ig	jbOpenPortal				 Steps file not found: C:\TestCases\Test2\jbOpenPortal\jbOpenPortal.csv 
+2023-12-28 09:55:40,307 Ig	jbDataEntryBasic				 Steps file not found: C:\TestCases\Test2\jbDataEntryBasic\jbDataEntryBasic.csv 
+2023-12-28 09:55:40,307 Ig	curl				 Steps file not found: C:\TestCases\Test2\curl\curl.csv 
+2023-12-28 09:55:40,307 Ig	apiDataEntryBasic				 Steps file not found: C:\TestCases\Test2\apiDataEntryBasic\apiDataEntryBasic.csv 
+2023-12-28 09:55:47,193 EX     6794ms 2,2    Navigated to         https://demo.guru99.com/insurance/v1/register.php 	 
+2023-12-28 09:55:48,494 EX      269ms 2,2    Clicked              user_title 	 
+2023-12-28 09:55:49,737 EX      242ms 2,3    Clicked              //*[@id="user_title"]/option[3] 	 
+2023-12-28 09:55:50,809 EX       58ms 2,4    Entered text in      user_firstname 	 
+2023-12-28 09:55:51,867 EX       56ms 2,5    Entered text in      user_surname 	 
+2023-12-28 09:55:52,925 EX       56ms 2,6    Entered text in      user_phone 	 
+2023-12-28 09:55:54,200 EX      260ms 2,7    Clicked              user_dateofbirth_1i 	 
+2023-12-28 09:55:55,442 EX      239ms 2,8    Clicked              /html/body/div[3]/form/div[2]/div[3]/select[1]/option[3] 	 
+2023-12-28 09:55:56,709 EX      252ms 2,9    Clicked              user_dateofbirth_2i 	 
+2023-12-28 09:55:57,956 EX      239ms 2,10   Clicked              /html/body/div[3]/form/div[2]/div[3]/select[2]/option[3] 	 
+2023-12-28 09:55:59,212 EX      251ms 2,11   Clicked              user_dateofbirth_3i 	 
+2023-12-28 09:56:00,461 EX      237ms 2,12   Clicked              /html/body/div[3]/form/div[2]/div[3]/select[3]/option[10] 	 
+2023-12-28 09:56:01,705 EX      238ms 2,13   Clicked              /html/body/div[3]/form/div[2]/div[4]/label[2] 	 
+2023-12-28 09:56:02,973 EX      256ms 2,14   Clicked              user_licenceperiod 	 
+2023-12-28 09:56:04,226 EX      239ms 2,15   Clicked              /html/body/div[3]/form/div[2]/div[5]/select/option[13] 	 
+2023-12-28 09:56:05,487 EX      255ms 2,16   Clicked              user_occupation_id 	 
+2023-12-28 09:56:06,735 EX      236ms 2,17   Clicked              /html/body/div[3]/form/div[2]/div[6]/select/option[18] 	 
